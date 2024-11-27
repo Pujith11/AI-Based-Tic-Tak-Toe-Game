@@ -1,8 +1,10 @@
 # AI-Based-Tic-Tak-Toe-Game
 ⮚AI is a transformative force in various fields, including Playing 
 Games. 
+
 ⮚ Artificial intelligence (AI) has been used in video games since the 
 1950s. 
+
 ⮚ No more predictable foes! AI creates cunning opponents that adapt 
 to your strategies, making battles more thrilling. 
 
