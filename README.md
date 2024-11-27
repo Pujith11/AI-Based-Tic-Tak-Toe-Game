@@ -24,8 +24,12 @@ workflows by automating repetitive tasks, allowing developers to
 focus on creative aspects.
 
 **METHODOLOGY :** 
+
 ![image](https://github.com/user-attachments/assets/8d58901f-1450-4248-964a-774bc3c118f3)
-Take a look that the depth is equal the valid moves on the board.  
+             
+             Take a look that the depth is equal the valid moves on the board.  
+
+             
 ![image](https://github.com/user-attachments/assets/af4bd2d9-c61c-4684-b56b-821d24674d0e)
 
 That tree has 11 nodes. The full game tree has 549.946 nodes! You can 
