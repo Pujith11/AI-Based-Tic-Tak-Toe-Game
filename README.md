@@ -31,6 +31,16 @@ focus on creative aspects.
 
 **METHODOLOGY :** 
 
+⮚ The minimax algorithm is a decision-making algorithm used in 
+artificial intelligence (AI) for two-player zero-sum games. It is 
+used to determine the best possible move for a player, assuming 
+that the opponent is also playing optimally. 
+
+⮚ The minimax algorithm is a decision-making algorithm used in 
+artificial intelligence (AI) for two-player zero-sum games. It is 
+used to determine the best possible move for a player, assuming 
+that the opponent is also playing optimally. 
+
 ![image](https://github.com/user-attachments/assets/8d58901f-1450-4248-964a-774bc3c118f3)
              
              Take a look that the depth is equal the valid moves on the board.  
